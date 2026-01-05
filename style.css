@@ -1,0 +1,212 @@
+
+body {
+    background-color: #cee3f8;
+    font-family: verdana, arial, helvetica, sans-serif;
+    margin: 0;
+    padding-top: 60px;
+}
+#header {
+    background-color: #cee3f8;
+    border-bottom: 1px solid #5f99cf;
+    padding: 10px 40px 0 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    box-sizing: border-box;
+    height: 45px;
+}
+.header-left {
+    display: flex;
+    align-items: flex-end;
+    margin-left: 20px; 
+}
+.logo {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff4500;
+    text-decoration: none;
+    margin-right: 20px;
+    font-family: monospace;
+    padding-bottom: 5px;
+}
+.tabmenu { list-style-type: none; padding: 0; margin: 0; display: flex; }
+.tabmenu li { cursor: pointer; }
+.tabmenu li a {
+    background-color: #eff7ff;
+    border: 1px solid #5f99cf;
+    border-bottom: none;
+    color: #369;
+    padding: 2px 12px;
+    text-decoration: none;
+    margin-right: 3px;
+    font-size: 13px;
+    display: block;
+}
+.tabmenu li.selected a {
+    background-color: white;
+    border-bottom: 1px solid white;
+    color: #ff4500;
+    font-weight: bold;
+}
+#search-input {
+    padding: 4px 8px;
+    border: 1px solid #5f99cf;
+    font-size: 13px;
+    width: 250px;
+    outline: none;
+    margin-bottom: 5px;
+}
+#content {
+    background-color: white;
+    margin: 10px 20px;
+    padding: 15px;
+    min-height: 100vh;
+    border: 1px solid #5f99cf;
+}
+.section-title {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #ff4500;
+    display: none;
+    font-weight: bold;
+}
+.post {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #eff7ff;
+}
+.rank { width: 45px; color: #c6c6c6; font-size: 16px; font-weight: bold; flex-shrink: 0; }
+.entry { flex-grow: 1; padding: 0 10px; }
+.title { color: #0000ff; text-decoration: none; font-size: 16px; font-weight: 500; }
+.tagline { font-size: 11px; color: #888; margin-top: 3px; }
+.action-btn { color: #ff4500 !important; font-size: 11px; font-weight: bold; text-transform: uppercase; text-decoration: none; }
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 45px;
+    background-color: #cee3f8;
+    border-top: 1px solid #5f99cf;
+    padding: 5px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10000;
+    box-sizing: border-box;
+}
+
+#footer p {
+    margin: 0;
+    font-size: 11px;
+    color: #369;
+    font-weight: bold;
+}
+
+.footer-left {
+    display: flex;
+    align-items: center;
+}
+
+.footer-right {
+    display: flex;
+    align-items: center;
+}
+
+#footer a {
+    color: #ff4500;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 1024px) {
+    #header {
+        padding: 10px 20px 0 20px;
+    }
+    #footer {
+        padding: 5px 20px;
+    }
+    #content {
+        margin: 10px 15px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        padding-top: 100px;
+    }
+    #header {
+        height: auto;
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .header-left {
+        margin-left: 0;
+        margin-bottom: 10px;
+        width: 100%;
+        justify-content: center;
+    }
+    .search-container {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 5px;
+    }
+    #search-input {
+        width: 80%;
+        margin-right: 0;
+        box-sizing: border-box;
+    }
+    #footer {
+        height: auto;
+        flex-direction: column;
+        gap: 5px;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body {
+        padding-top: 110px;
+    }
+    .tabmenu li a {
+        padding: 2px 6px;
+        font-size: 11px;
+    }
+    .logo {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+    #search-input {
+        width: 90%;
+    }
+    .post {
+        padding: 8px 5px;
+    }
+    .rank {
+        width: 30px;
+        font-size: 14px;
+    }
+    .title {
+        font-size: 14px;
+    }
+    #content {
+        margin: 5px;
+        padding: 10px;
+    }
+    #footer p {
+        font-size: 10px;
+    }
+}

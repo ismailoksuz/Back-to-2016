@@ -1,0 +1,252 @@
+{
+  "Love Yourself": {
+    "Rank":1,
+    "Artist": "Justin Bieber",
+    "Youtube_Url": "https://www.youtube.com/watch?v=oyEuk8j8imI"
+  },
+  "Sorry": {
+    "Rank":2,
+    "Artist": "Justin Bieber",
+    "Youtube_Url": "https://www.youtube.com/watch?v=fRh_vgS2dFE"
+  },
+  "One Dance": {
+    "Rank":3,
+    "Artist": "Drake featuring Wizkid and Kyla",
+    "Youtube_Url": "https://www.youtube.com/watch?v=iAbnEUA0wpA"
+  },
+  "Work": {
+    "Rank":4,
+    "Artist": "Rihanna featuring Drake",
+    "Youtube_Url": "https://www.youtube.com/watch?v=HL1UzIK-flA"
+  },
+  "Stressed Out": {
+    "Rank":5,
+    "Artist": "Twenty One Pilots",
+    "Youtube_Url": "https://www.youtube.com/watch?v=pXRviuL6vMY"
+  },
+  "Panda": {
+    "Rank":6,
+    "Artist": "Desiigner",
+    "Youtube_Url": "https://www.youtube.com/watch?v=E5ONTXHS2mM"
+  },
+  "Hello": {
+    "Rank":7,
+    "Artist": "Adele",
+    "Youtube_Url": "https://www.youtube.com/watch?v=YQHsXMglC9A"
+  },
+  "Don't Let Me Down": {
+    "Rank":8,
+    "Artist": "The Chainsmokers featuring Daya",
+    "Youtube_Url": "https://www.youtube.com/watch?v=Io0fBr1XBUA"
+  },
+  "Can't Stop the Feeling!": {
+    "Rank":9,
+    "Artist": "Justin Timberlake",
+    "Youtube_Url": "https://www.youtube.com/watch?v=ru0K8uYEZWw"
+  },
+  "Closer": {
+    "Rank":10,
+    "Artist": "The Chainsmokers featuring Halsey",
+    "Youtube_Url": "https://www.youtube.com/watch?v=PT2_F-1esPk"
+  },
+  "Cheap Thrills": {
+    "Rank":11,
+    "Artist": "Sia featuring Sean Paul",
+    "Youtube_Url": "https://www.youtube.com/watch?v=nYh-n7EOtMA"
+  },
+  "7 Years": {
+    "Rank":12,
+    "Artist": "Lukas Graham",
+    "Youtube_Url": "https://www.youtube.com/watch?v=LHCob76kigA"
+  },
+  "Needed Me": {
+    "Rank":13,
+    "Artist": "Rihanna",
+    "Youtube_Url": "https://www.youtube.com/watch?v=wfN4PVaOU5Q"
+  },
+  "My House": {
+    "Rank":14,
+    "Artist": "Flo Rida",
+    "Youtube_Url": "https://www.youtube.com/watch?v=uo35R9zQsAI"
+  },
+  "I Took a Pill in Ibiza": {
+    "Rank":15,
+    "Artist": "Mike Posner",
+    "Youtube_Url": "https://www.youtube.com/watch?v=foE1mO2yM04"
+  },
+  "Work from Home": {
+    "Rank":16,
+    "Artist": "Fifth Harmony featuring Ty Dolla Sign",
+    "Youtube_Url": "https://www.youtube.com/watch?v=5GL9JoH4Sws"
+  },
+  "This Is What You Came For": {
+    "Rank":17,
+    "Artist": "Calvin Harris featuring Rihanna",
+    "Youtube_Url": "https://www.youtube.com/watch?v=kOkQ4T5WO9E"
+  },
+  "Cake by the Ocean": {
+    "Rank":18,
+    "Artist": "DNCE",
+    "Youtube_Url": "https://www.youtube.com/watch?v=vWaRiD5ym74"
+  },
+  "Me, Myself & I": {
+    "Rank":19,
+    "Artist": "G-Eazy and Bebe Rexha",
+    "Youtube_Url": "https://www.youtube.com/watch?v=bSfpSOBD30U"
+  },
+  "Ride": {
+    "Rank":20,
+    "Artist": "Twenty One Pilots",
+    "Youtube_Url": "https://www.youtube.com/watch?v=Pw-0pbY9JeU"
+  },
+  "Heathens": {
+    "Rank":21,
+    "Artist": "Twenty One Pilots",
+    "Youtube_Url": "https://www.youtube.com/watch?v=UprcpdwuwCg"
+  },
+  "Pillowtalk": {
+    "Rank":22,
+    "Artist": "Zayn",
+    "Youtube_Url": "https://www.youtube.com/watch?v=C_3d6GntKbk"
+  },
+  "Stitches": {
+    "Rank":23,
+    "Artist": "Shawn Mendes",
+    "Youtube_Url": "https://www.youtube.com/watch?v=VbfpW0pbvaU"
+  },
+  "Hotline Bling": {
+    "Rank":24,
+    "Artist": "Drake",
+    "Youtube_Url": "https://www.youtube.com/watch?v=uxpDa-c-4Mc"
+  },
+  "Cold Water": {
+    "Rank":25,
+    "Artist": "Major Lazer featuring Justin Bieber and MØ",
+    "Youtube_Url": "https://www.youtube.com/watch?v=a59gmGkq_pw"
+  },
+  "Send My Love (To Your New Lover)": {
+    "Rank":26,
+    "Artist": "Adele",
+    "Youtube_Url": "https://www.youtube.com/watch?v=fk4BbF7B29w"
+  },
+  "Roses": {
+    "Rank":27,
+    "Artist": "The Chainsmokers featuring Rozes",
+    "Youtube_Url": "https://www.youtube.com/watch?v=FyASdjZE0R0"
+  },
+  "Treat You Better": {
+    "Rank":28,
+    "Artist": "Shawn Mendes",
+    "Youtube_Url": "https://www.youtube.com/watch?v=lY2yjAdbvdQ"
+  },
+  "Too Good": {
+    "Rank":29,
+    "Artist": "Drake featuring Rihanna",
+    "Youtube_Url": "https://www.youtube.com/watch?v=0zGcUoRlhmw"
+  },
+  "Low Life": {
+    "Rank":30,
+    "Artist": "Future featuring The Weeknd",
+    "Youtube_Url": "https://www.youtube.com/watch?v=K_9tX4eHztY"
+  },
+  "What Do You Mean?": {
+    "Rank":31,
+    "Artist": "Justin Bieber",
+    "Youtube_Url": "https://www.youtube.com/watch?v=DK_0jXPuIr0"
+  },
+  "The Hills": {
+    "Rank":32,
+    "Artist": "The Weeknd",
+    "Youtube_Url": "https://www.youtube.com/watch?v=yzTuBuRdAyA"
+  },
+  "Just Like Fire": {
+    "Rank":33,
+    "Artist": "P!nk",
+    "Youtube_Url": "https://www.youtube.com/watch?v=ru0K8uYEZWw"
+  },
+  "Broccoli": {
+    "Rank":34,
+    "Artist": "DRAM featuring Lil Yachty",
+    "Youtube_Url": "https://www.youtube.com/watch?v=K44j-sb1SRY"
+  },
+  "Don't": {
+    "Rank":35,
+    "Artist": "Bryson Tiller",
+    "Youtube_Url": "https://www.youtube.com/watch?v=d7cVLE4SaN0"
+  },
+  "Dangerous Woman": {
+    "Rank":36,
+    "Artist": "Ariana Grande",
+    "Youtube_Url": "https://www.youtube.com/watch?v=9WbCfHutDSE"
+  },
+  "Jumpman": {
+    "Rank":37,
+    "Artist": "Drake and Future",
+    "Youtube_Url": "https://www.youtube.com/watch?v=Yw4vYbTNJDc"
+  },
+  "I Hate U, I Love U": {
+    "Rank":38,
+    "Artist": "Gnash featuring Olivia O'Brien",
+    "Youtube_Url": "https://www.youtube.com/watch?v=BiQIc7fG9pA"
+  },
+  "Here": {
+    "Rank":39,
+    "Artist": "Alessia Cara",
+    "Youtube_Url": "https://www.youtube.com/watch?v=UKp2CrfmVfw"
+  },
+  "Same Old Love": {
+    "Rank":40,
+    "Artist": "Selena Gomez",
+    "Youtube_Url": "https://www.youtube.com/watch?v=9h30Bx4Klxg"
+  },
+    "Controlla": {
+      "Rank":41,
+      "Artist": "Drake",
+      "Youtube_Url": "https://www.youtube.com/watch?v=PsW85VbSau0"
+    },
+    "Like I'm Gonna Lose You": {
+      "Rank":42,
+      "Artist": "Meghan Trainor featuring John Legend",
+      "Youtube_Url": "https://www.youtube.com/watch?v=2-MBfn8XjIU"
+    },
+    "One Call Away": {
+      "Rank":43,
+      "Artist": "Charlie Puth",
+      "Youtube_Url": "https://www.youtube.com/watch?v=BxuY9FET9Y4"
+    },
+    "Let It Go": {
+      "Rank":44,
+      "Artist": "James Bay",
+      "Youtube_Url": "https://www.youtube.com/watch?v=GsPq9mzFNGY"
+    },
+    "No": {
+      "Rank":45,
+      "Artist": "Meghan Trainor",
+      "Youtube_Url": "https://www.youtube.com/watch?v=cMTAUr3Nm6I"
+    },
+    "Never Forget You": {
+      "Rank":46,
+      "Artist": "Zara Larsson and MNEK",
+      "Youtube_Url": "https://www.youtube.com/watch?v=GTyN-DB_v5M"
+    },
+    "Let Me Love You": {
+      "Rank":47,
+      "Artist": "DJ Snake featuring Justin Bieber",
+      "Youtube_Url": "https://www.youtube.com/watch?v=euCqAq6BRa4"
+    },
+    "Don't Mind": {
+      "Rank":48,
+      "Artist": "Kent Jones",
+      "Youtube_Url": "https://www.youtube.com/watch?v=wccDj8yVS1U"
+    },
+    "H.O.L.Y.": {
+      "Rank":49,
+      "Artist": "Florida Georgia Line",
+      "Youtube_Url": "https://www.youtube.com/watch?v=zXDAYlhdkyg"
+    },
+    "We Don't Talk Anymore": {
+      "Rank":50,
+      "Artist": "Charlie Puth featuring Selena Gomez",
+      "Youtube_Url": "https://www.youtube.com/watch?v=3AtDnEC4zak"
+    }
+  }

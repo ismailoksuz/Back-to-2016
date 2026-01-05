@@ -1,0 +1,63 @@
+{
+    "Captain America: Civil War": {
+      "Rank": 1,
+      "Title": "Captain America: Civil War",
+      "Distributor": "Disney",
+      "MovieURL": "https://www.imdb.com/title/tt3498820/"
+    },
+    "Rogue One: A Star Wars Story": {
+      "Rank": 2,
+      "Title": "Rogue One: A Star Wars Story",
+      "Distributor": "Disney",
+      "MovieURL": "https://www.imdb.com/title/tt3748528/"
+    },
+    "Finding Dory": {
+      "Rank": 3,
+      "Title": "Finding Dory",
+      "Distributor": "Disney",
+      "MovieURL": "https://www.imdb.com/title/tt2277860/"
+    },
+    "Zootopia": {
+      "Rank": 4,
+      "Title": "Zootopia",
+      "Distributor": "Disney",
+      "MovieURL": "https://www.imdb.com/title/tt2948356/"
+    },
+    "The Jungle Book": {
+      "Rank": 5,
+      "Title": "The Jungle Book",
+      "Distributor": "Disney",
+      "MovieURL": "https://www.imdb.com/title/tt3040964/"
+    },
+    "The Secret Life of Pets": {
+      "Rank": 6,
+      "Title": "The Secret Life of Pets",
+      "Distributor": "Universal",
+      "MovieURL": "https://www.imdb.com/title/tt2709768/"
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "Rank": 7,
+      "Title": "Batman v Superman: Dawn of Justice",
+      "Distributor": "Warner Bros.",
+      "MovieURL": "https://www.imdb.com/title/tt2975590/"
+    },
+    "Fantastic Beasts and Where to Find Them": {
+      "Rank": 8,
+      "Title": "Fantastic Beasts and Where to Find Them",
+      "Distributor": "Warner Bros.",
+      "MovieURL": "https://www.imdb.com/title/tt3183660/"
+    },
+    "Deadpool": {
+      "Rank": 9,
+      "Title": "Deadpool",
+      "Distributor": "20th Century Fox",
+      "MovieURL": "https://www.imdb.com/title/tt1431045/"
+    },
+    "Suicide Squad": {
+      "Rank": 10,
+      "Title": "Suicide Squad",
+      "Distributor": "Warner Bros.",
+      "MovieURL": "https://www.imdb.com/title/tt1386697/"
+    }
+  }
+  

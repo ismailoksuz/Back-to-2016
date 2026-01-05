@@ -1,0 +1,17 @@
+// USING CHATGPT FREE VERSION
+
+PROMPT 1:
+"using this csv file, I want you to generate a json file. 
+the format should be 
+Movie_Name:{ 
+    Assign Rank, Title, Distributor here. 
+    and also find an image url for cover. 
+    check and be sure whether the link is working and contains image. 
+} 
+if the Distributor data is empty or null, use the latest Distributor data. 
+send me the json file"
+
+ATTACHMENT: data/download/2016_movies.csv
+
+PROMPT 2:
+"now add movie url's into json. do not remove any data"

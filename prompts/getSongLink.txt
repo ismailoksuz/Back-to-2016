@@ -1,0 +1,28 @@
+// USING CHATGPT FREE VERSION
+
+PROMPT 1:
+"According to the csv file that I uploaded, make a search on Youtube. 
+Make search like "Title" + "Artist(s)" columns. 
+If "Artist(s)" is empty or null, use the previous, or most previous "Artist(s)" for it.
+Find "MOST VIEWED" videos for each song on YouTube.
+When you find the most viewed one add it to json and skip to next song.
+Make json for first 50 songs.
+If you have trouble with 50 songs limit, separate it into small pieces
+Generate a json file with
+"Song_Name"{
+"Artist",
+"Youtube_Url"
+}
+
+format.
+
+send me the json file without using another comment."
+
+ATTACHMENT: data/download/2016_songs.csv
+
+PROMPT 2:
+"compare the csv file and json file. they have to match 100%. 
+first 50 songs in csv file should be in json.
+due to same song name "Sorry", I renamed the Beyonce's song like SorryBeyonce"
+
+ATTACHMENT: data/download/2016_songs.csv & data/responses/songLinks.json

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>BACK TO 2016</title>
+</head>
+<body>
+
+<div id="header">
+    <div class="header-left">
+        <a href="index.html" class="logo" id="live-clock">01.01.2016</a>
+        <ul class="tabmenu">
+            <li id="tab-news" class="selected" onclick="switchTab('news')"><a>news</a></li>
+            <li id="tab-songs" onclick="switchTab('songs')"><a>songs</a></li>
+            <li id="tab-movies" onclick="switchTab('movies')"><a>movies</a></li>
+        </ul>
+    </div>
+    <div class="search-container">
+        <input type="text" id="search-input" placeholder="search...">
+    </div>
+</div>
+
+<div id="content">
+    <div id="page-title" class="section-title"></div>
+    <div id="list-container"></div>
+</div>
+<div id="footer">
+    <div class="footer-left">
+        <p>r/2016 Archive</p>
+    </div>
+    <div class="footer-right">
+        <p>Created by <a href="https://www.github.com/ismailoksuz" target="_blank">İsmail ÖKSÜZ</a></p>
+    </div>
+</div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

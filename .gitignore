@@ -1,0 +1,10 @@
+*.csv
+data/download/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
