@@ -25,7 +25,6 @@ A web-based digital time capsule designed to replicate the 2016 Reddit aesthetic
 * **index.html**: Core structure and navigation.
 * **style.css**: Custom CSS providing a 2016-era Reddit theme and full responsiveness via media queries.
 * **script.js**: Handles tab switching, data fetching, search filtering, and the live 2016 clock.
-* **player.html**: Independent component for the draggable YouTube API integration.
 
 ### Backend / Processing
 
