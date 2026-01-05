@@ -7,8 +7,7 @@ A web-based digital time capsule designed to replicate the 2016 Reddit aesthetic
 * **Live Clock**: Displays the current time synced to the year 2016.
 * **Search**: Real-time filtering for headlines, artists, or movie titles.
 * **Responsive Header & Footer**: Fixed navigation and credit bars that adapt to desktop, tablet, and mobile screens.
-* **Floating Jukebox**: A draggable YouTube player popup for background music while browsing.
-
+  
 ## Categories
 
 | Category | Description | Data Source |
